@@ -25,9 +25,11 @@ import (
 // }
 //
 const (
-	kTCSETS2 = 0x402C542B
+	// kTCSETS2 = 0x402C542B
+	kTCSETS2 = 0x8030542B
 	kBOTHER  = 0x1000
-	kNCCS    = 19
+	// kNCCS    = 19
+	kNCCS = 23
 )
 
 //
